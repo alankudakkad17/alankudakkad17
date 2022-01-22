@@ -25,4 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alankudakkad17&show_icons=true&locale=en" alt="alankudakkad17" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alankudakkad17&show_icons=true&locale=en&layout=compact" alt="alankudakkad17" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alankudakkad17&" alt="alankudakkad17" /></p>
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username={alankudakkad17}&theme=mini" alt="alankudakkad17" /></p>
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=alankudakkad17&theme=mini" alt="alankudakkad17" /></p>
