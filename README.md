@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)]
+[![MasterHead](https://qph.fs.quoracdn.net/main-qimg-b461c057dc88b51fc521235833b1c6a9)]
 <h1 align="center">Hi 👋, I'm ALAN ANTO</h1>
 <h3 align="center">A passionate Artificial intelligence and Data science student from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
