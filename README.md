@@ -9,6 +9,12 @@
 - 🌱 I’m currently learning **B.Tech In Artificial intelligence and Data science**
 
 - 👨‍💻 Currently learning [python|java|c](python|java|c)
+- 
+- 👀 I’m interested in Artificial Intelligence
+- 
+-🌱 I’m currently learning Artificial Intelligence and Data Science
+
+-💞️ I’m looking to collaborate on Ai
 
 - 📫 How to reach me **alankudakkad17@gmail.com**
 
