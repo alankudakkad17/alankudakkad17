@@ -1,5 +1,4 @@
 [![MasterHead](https://qph.fs.quoracdn.net/main-qimg-b461c057dc88b51fc521235833b1c6a9)]
-[![snake gif](https://github.com/alankudakkad17/alankudakkad17/blob/output/github-contribution-grid-snake.svg)]
 <h1 align="center">Hi 👋, I'm ALAN ANTO</h1>
 <h3 align="center">A passionate Artificial intelligence and Data science student from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -23,6 +22,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[![snake gif](https://github.com/alankudakkad17/alankudakkad17/blob/output/github-contribution-grid-snake.svg)]
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alankudakkad17&theme=blue-green" alt="alankudakkad17" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alankudakkad17&theme=blue-green" alt="alankudakkad17" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alankudakkad17&theme=blue-green" alt="alankudakkad17" /></p>
