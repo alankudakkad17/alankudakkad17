@@ -1,4 +1,5 @@
 [![MasterHead](https://qph.fs.quoracdn.net/main-qimg-b461c057dc88b51fc521235833b1c6a9)]
+[![snake gif](https://github.com/alankudakkad17/alankudakkad17/blob/output/github-contribution-grid-snake.svg)]
 <h1 align="center">Hi 👋, I'm ALAN ANTO</h1>
 <h3 align="center">A passionate Artificial intelligence and Data science student from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -26,4 +27,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alankudakkad17&theme=blue-green" alt="alankudakkad17" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alankudakkad17&theme=blue-green" alt="alankudakkad17" /></p>
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=alankudakkad17&theme=blue-green" alt="alankudakkad17"/></p>
-[![snake gif](https://github.com/alankudakkad17/alankudakkad17/blob/output/github-contribution-grid-snake.gif)]
+
