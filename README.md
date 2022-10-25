@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alankudakkad17&label=Profile%20views&color=0e75b6&style=flat" alt="alankudakkad17" /> </p>
 
 - 🌱 I’m currently learning **B.Tech In Artificial intelligence and Data science**
-- 👨‍💻 Currently learning [python|java|c](python|java|c)
+- 👨‍💻 Currently learning [python|java|c|R|SQL](python|java|c|R|SQL)
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Artificial Intelligence and Data Science
 - 💞️ I’m looking to collaborate on Ai
