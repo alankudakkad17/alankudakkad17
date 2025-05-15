@@ -1,5 +1,4 @@
 [![MasterHead](https://qph.fs.quoracdn.net/main-qimg-b461c057dc88b51fc521235833b1c6a9)]
-[![snake gif](https://github.com/alankudakkad17/alankudakkad17/blob/output/github-contribution-grid-snake.svg)]
 <h1 align="center">Hi 👋, I'm ALAN ANTO</h1>
 <h3 align="center">A passionate Artificial intelligence and Data science student </h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
