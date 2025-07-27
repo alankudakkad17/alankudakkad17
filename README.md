@@ -1,16 +1,15 @@
 [![MasterHead](https://qph.fs.quoracdn.net/main-qimg-b461c057dc88b51fc521235833b1c6a9)]
-<h1 align="center">Hi 👋, I'm ALAN ANTO</h1>
+<h1 align="center">ALAN ANTO</h1>
 <h3 align="center">A passionate Artificial intelligence student </h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alankudakkad17&label=Profile%20views&color=0e75b6&style=flat" alt="alankudakkad17" /> </p>
 
-- 🌱 I’m currently learning **MSc In Artificial intelligence**
-- 👨‍💻 Currently learning [python|java|c|R|SQL](python|java|c|R|SQL)
+- 🌱 I’m currently learning **MSc In Artificial Intelligence**
+- 👨‍💻 Currently learning LLM | GENAI | RAG | LANGCHAIN
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Artificial Intelligence and Data Science
 - 💞️ I’m looking to collaborate on Ai
-- 📫 How to reach me **alankudakkad17@gmail.com**
+- 📫 How to reach me **alan.anto.ai.2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
