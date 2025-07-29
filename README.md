@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alankudakkad17&label=Profile%20views&color=0e75b6&style=flat" alt="alankudakkad17" /> </p>
 
-- 🌱 I’m currently learning **MSc In Artificial Intelligence**
-- 👨‍💻 Currently learning LLM | GENAI | RAG | LANGCHAIN
-- 👀 I’m interested in Artificial Intelligence
-- 💞️ I’m looking to collaborate on Ai
-- 📫 How to reach me **alan.anto.ai.2002@gmail.com**
+- 🎓 Currently pursuing **MSc in Artificial Intelligence**  
+- 🤖 Focused on **LLMs**, **Generative AI**, **RAG**, and **LangChain**  
+- 👀 Passionate about building intelligent, real-world AI applications  
+- 🤝 Open to collaborations on AI/ML and NLP-based projects  
+- 📫 Reach me at **alan.anto.ai.2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
