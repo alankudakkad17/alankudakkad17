@@ -11,6 +11,13 @@
 - 🤝 Open to collaborations on AI/ML and NLP-based projects  
 - 📫 Reach me at **alan.anto.ai.2002@gmail.com**
 
+### 🔧 What I’ve worked on
+
+- RAG Chatbot with LangChain, IBM watsonx, and ChromaDB
+- Aircraft damage classification and captioning** using VGG16 and BLIP
+- YOLOv8-powered robotic system for supermarket restocking
+- BERT-based intrusion detection with real-time alerts
+
 ### 🔬 Research Interests
 - Artificial Intelligence
 - LLM and RAG
