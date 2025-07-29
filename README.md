@@ -34,5 +34,5 @@
 </p>
 
 <h3 align="left">Progress:</h3>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alankudakkad17&theme=blue-green" alt="alankudakkad17" /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alankudakkad17&theme=blue-green" alt="alankudakkad17" /></p>
 
