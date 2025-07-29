@@ -18,7 +18,7 @@
 - BERT-based intrusion detection with real-time alerts
 
 ### 🔬 Research Interests
-- Artificial Intelligence
+- Deep Learning and Machine Learning
 - LLM and RAG
 - Autonomous Systems & Intelligent Control
 - Computer Vision & Generative AI
