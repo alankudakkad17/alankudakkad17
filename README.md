@@ -12,9 +12,8 @@
 - 📫 Reach me at **alan.anto.ai.2002@gmail.com**
 
 ### 🔬 Research Interests
-- Artificial Intelligence in Robotics
+- Artificial Intelligence
 - LLM and RAG
-- Multimodal Emotion Recognition (Text, Speech, Visual)
 - Autonomous Systems & Intelligent Control
 - Computer Vision & Generative AI
 
