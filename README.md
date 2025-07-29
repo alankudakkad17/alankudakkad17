@@ -1,4 +1,3 @@
-[![MasterHead](https://qph.fs.quoracdn.net/main-qimg-b461c057dc88b51fc521235833b1c6a9)]
 <h1 align="center">ALAN ANTO</h1>
 <h3 align="center">A passionate Artificial intelligence student </h3>
 <img align="right" alt="coding" width="390" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
