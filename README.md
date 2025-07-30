@@ -4,7 +4,8 @@
 
 <p align="left">  </p>
 
-- 🎓 Currently pursuing **MSc in Artificial Intelligence**  
+- 🎓 Currently pursuing **MSc in Artificial Intelligence** 
+- 🎓 Completed **B.Tech in Artificial Intelligence and Data Science** 
 - 🤖 Focused on **LLMs**, **Generative AI**, **RAG**, and **LangChain**  
 - 👀 Passionate about building intelligent, real-world AI applications  
 - 🤝 Open to collaborations on AI/ML and NLP-based projects  
@@ -28,10 +29,10 @@
 - Libraries: Tensorflow / keras / Scikit-learn / pandas / pytorch / numpy
 - Frameworks: Hugging Face/ Transformers//LLM/ LangChain / RAG
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alan-anto-998431214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alan-anto-998431214" height="30" width="40" /></a>
-</p>
+### Connect with me!
+- [LinkedIn](https://www.linkedin.com/in/alan-anto-998431214/)  
+- [Mail](alan.anto.ai.2002@gmail.com)
+
 
 <h3 align="left">Progress:</h3>
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alankudakkad17&theme=blue-green" alt="alankudakkad17" /></p>
