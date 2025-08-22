@@ -8,7 +8,7 @@
 - 🎓 Completed **B.Tech in Artificial Intelligence and Data Science** 
 - 🤖 Focused on **LLMs**, **Generative AI**, **RAG**, and **LangChain**  
 - 👀 Passionate about building intelligent, real-world AI applications  
-- 🤝 Open to collaborations on AI/ML and NLP-based projects  
+- 🤝 Open to collaborations on AI/ML and GEN AI-based projects  
 - 📫 Reach me at **alan.anto.ai.2002@gmail.com**
 
 ### 🔧 What I’ve worked on
