@@ -1,6 +1,6 @@
 <h1 align="center">ALAN ANTO</h1>
 <h3 align="center">A passionate Artificial intelligence student </h3>
-#<img align="right" alt="coding" width="390" src="8 Ways Artificial Intelligence Can Save Your Time - MaxiNews.gif">
+<!img align="right" alt="coding" width="390" src="8 Ways Artificial Intelligence Can Save Your Time - MaxiNews.gif"-->
 
 <p align="left">  </p>
 
