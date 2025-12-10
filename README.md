@@ -13,19 +13,27 @@
 
 ### 🔧 What I’ve worked on
 
+- AI Icebreaker Bot with IBM Granite 3.0 & LlamaIndex
+- AI NutriCoach
+- AI-Powered Meeting Assistant
+- Doc-Chat
+- Natural-Language-SQL-Agent-with-IBM-Granite-LangChain
+- YouTube Video Summarizer & Q&A Bot
+- QLoRA-Based Conversational LLM Fine-Tuning for YouTube Comment Response
 - RAG Chatbot with LangChain, IBM watsonx, and ChromaDB
 - Aircraft damage classification and captioning using VGG16 and BLIP
 - YOLOv8-powered robotic system for supermarket restocking
 - BERT-based intrusion detection with real-time alerts
 
 ### 🔬 Research Interests
+- Agentic AI
 - Deep Learning and Machine Learning
 - LLM and RAG
 - Autonomous Systems & Intelligent Control
 - Computer Vision & Generative AI
   
 ### Languages and Tools
-- Languages: Python / R / SQL / CPP
+- Languages: Python / SQL / CPP
 - Libraries: Tensorflow / keras / Scikit-learn / pandas / pytorch / numpy
 - Frameworks: Hugging Face/ Transformers//LLM/ LangChain / RAG
 
