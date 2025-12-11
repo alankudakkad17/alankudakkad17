@@ -1,29 +1,42 @@
 <h1 align="center">ALAN ANTO</h1>
 <h3 align="center">Artificial intelligence student </h3>
 <!img align="right" alt="coding" width="390" src="8 Ways Artificial Intelligence Can Save Your Time - MaxiNews.gif"-->
+<p align="center">
+  <!-- GitHub Badges -->
+  <img src="https://img.shields.io/badge/AI%20Engineer-Passionate-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-LLMs%20%7C%20GenAI%20%7C%20RAG-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20To-Collaboration-orange?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=alankudakkad17&label=Profile%20Views&color=blue&style=flat-square" />
+</p>
 
-<p align="left">  </p>
+---
 
-- 🎓 Currently pursuing **MSc in Artificial Intelligence** 
-- 🎓 Completed **B.Tech in Artificial Intelligence and Data Science** 
-- 🤖 Focused on **LLMs**, **Generative AI**, **RAG**, and **LangChain**  
-- 👀 Passionate about building intelligent, real-world AI applications  
-- 🤝 Open to collaborations on AI/ML and GEN AI-based projects  
+## 👨‍🎓 About Me
+
+I am a graduate student specializing in **Artificial Intelligence**, with academic and hands-on experience in  **Large Language Models**, **Generative AI**, **Retrieval-Augmented Generation**, and **Agentic AI**.  My work focuses on developing intelligent, scalable, and production-ready AI systems.
+
+I am particularly interested in the intersection of **LLMs**, **reasoning frameworks**, and  **real-world autonomous decision-making systems**.
+
+---
 
 ### 🔧 What I’ve worked on
 
-- AI Icebreaker Bot with IBM Granite 3.0 & LlamaIndex
-- AI NutriCoach
-- AI-Powered Meeting Assistant
-- Doc-Chat
-- Natural-Language-SQL-Agent-with-IBM-Granite-LangChain
-- YouTube Video Summarizer & Q&A Bot
-- QLoRA-Based Conversational LLM Fine-Tuning for YouTube Comment Response
-- RAG Chatbot with LangChain, IBM watsonx, and ChromaDB
-- Aircraft damage classification and captioning using VGG16 and BLIP
-- YOLOv8-powered robotic system for supermarket restocking
-- BERT-based intrusion detection with real-time alerts
+### **🔹 QLoRA-Based Conversational LLM Fine-Tuning**
+Fine-tuned a conversational LLM using **QLoRA**, enabling domain-specific responses for YouTube comment interaction.
 
+### **🔹 RAG Chatbot (LangChain + IBM watsonx + ChromaDB)**
+Designed a high-quality RAG pipeline integrating enterprise-grade LLMs with vector search for document-grounded Q&A.
+
+### **🔹 AI Icebreaker Bot (Granite 3.0 + LlamaIndex)**
+Developed a personalized conversation starter generator using IBM Granite and document indexing.
+
+### **🔹 Natural Language SQL Agent**
+Built an LLM-powered SQL query generator using Granite and LangChain for enterprise data access automation.
+
+### **🔹 YouTube Summarizer & Q&A Bot**
+Implemented a multi-stage summarization and question-answering pipeline for long-form YouTube content.
+
+---
 ### 🔬 Research Interests
 - Agentic AI
 - Deep Learning and Machine Learning
@@ -36,8 +49,12 @@
 - Libraries: Tensorflow / keras / Scikit-learn / pandas / pytorch / numpy
 - Frameworks: Hugging Face/ Transformers//LLM/ LangChain / RAG
 
+## 📊 GitHub Stats & Activity
+
+### 🔥 Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alankudakkad17&theme=blue-green" />
+</p>
 
 
-<h3 align="left">Progress:</h3>
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alankudakkad17&theme=blue-green" alt="alankudakkad17" /></p>
 
