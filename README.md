@@ -53,13 +53,3 @@ Implemented a multi-stage summarization and question-answering pipeline for long
 **Languages:** Python • SQL • C++  
 **Libraries:** PyTorch • TensorFlow • Scikit-Learn • Pandas • NumPy  
 **Frameworks:** Hugging Face • LangChain • Transformers • LLaMAIndex 
-
----
-
-### Progress
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alankudakkad17&theme=blue-green" />
-</p>
-
-
-
