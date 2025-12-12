@@ -36,6 +36,8 @@ Built an LLM-powered SQL query generator using Granite and LangChain for enterpr
 ### **🔹 YouTube Summarizer & Q&A Bot**
 Implemented a multi-stage summarization and question-answering pipeline for long-form YouTube content.
 
+---
+
 ## 🔬 Research Interests
 
 - Agentic & Autonomous AI  
@@ -52,6 +54,7 @@ Implemented a multi-stage summarization and question-answering pipeline for long
 **Libraries:** PyTorch • TensorFlow • Scikit-Learn • Pandas • NumPy  
 **Frameworks:** Hugging Face • LangChain • Transformers • LLaMAIndex 
 
+---
 
 ### Progress
 <p align="center">
