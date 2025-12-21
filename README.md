@@ -20,16 +20,11 @@ I am particularly interested in the intersection of **LLMs**, **reasoning framew
 ---
 
 ### 🔧 What I’ve worked on
-
-### **🔹 DocChat – Multi-Agent RAG System**
-
-### **🔹 QLoRA-Based Conversational LLM Fine-Tuning**
-
-### **🔹 AI Icebreaker Bot**
-
-### **🔹 Autonomous Multi-Agent Travel System**
-
-### **🔹 AI Nutrition Assistant**
+- DocChat – Multi-Agent RAG System
+- QLoRA-Based Conversational LLM Fine-Tuning
+- AI Icebreaker Bot
+- Autonomous Multi-Agent Travel System
+- AI Nutrition Assistant
 
 ---
 
