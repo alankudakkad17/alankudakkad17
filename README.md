@@ -21,20 +21,15 @@ I am particularly interested in the intersection of **LLMs**, **reasoning framew
 
 ### 🔧 What I’ve worked on
 
+### **🔹 DocChat – Multi-Agent RAG System**
+
 ### **🔹 QLoRA-Based Conversational LLM Fine-Tuning**
-Fine-tuned a conversational LLM using **QLoRA**, enabling domain-specific responses for YouTube comment interaction.
 
-### **🔹 RAG Chatbot (LangChain + IBM watsonx + ChromaDB)**
-Designed a high-quality RAG pipeline integrating enterprise-grade LLMs with vector search for document-grounded Q&A.
+### **🔹 AI Icebreaker Bot**
 
-### **🔹 AI Icebreaker Bot (Granite 3.0 + LlamaIndex)**
-Developed a personalized conversation starter generator using IBM Granite and document indexing.
+### **🔹 Autonomous Multi-Agent Travel System**
 
-### **🔹 Natural Language SQL Agent**
-Built an LLM-powered SQL query generator using Granite and LangChain for enterprise data access automation.
-
-### **🔹 YouTube Summarizer & Q&A Bot**
-Implemented a multi-stage summarization and question-answering pipeline for long-form YouTube content.
+### **🔹 AI Nutrition Assistant**
 
 ---
 
