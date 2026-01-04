@@ -8,16 +8,13 @@ I am a graduate student specializing in **Artificial Intelligence**, with academ
 
 I am particularly interested in the intersection of **LLMs**, **reasoning frameworks**, and  **real-world autonomous decision-making systems**.
 
----
+## 🔧 What I’ve worked on
 
-### 🔧 What I’ve worked on
 - DocChat – Multi-Agent RAG System
 - QLoRA-Based Conversational LLM Fine-Tuning
 - AI Icebreaker Bot
 - Autonomous Multi-Agent Travel System
 - AI Nutrition Assistant
-
----
 
 ## 🔬 Research Interests
 
