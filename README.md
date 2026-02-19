@@ -1,5 +1,4 @@
-<h1 align="center">Alan Anto</h1>
-<h3 align="center">Artificial Intelligence Developer </h3>
+<h1 align="center">Artificial Intelligence Student </h3>
 <!img align="right" alt="coding" width="390" src="8 Ways Artificial Intelligence Can Save Your Time - MaxiNews.gif"-->
 
 ## About Me
