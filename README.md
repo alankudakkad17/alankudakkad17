@@ -1,13 +1,28 @@
 
 
 ## About Me
+About Me
+I'm a graduate student pursuing an MSc in Artificial Intelligence at Brandenburg University of Technology, Germany, with a background in AI & Data Science from APJ Abdul Kalam Technological University.
+My focus lies at the intersection of Agentic AI, LLMs, and Computer Vision — building systems that reason, retrieve, and act autonomously. I enjoy designing multi-agent workflows and production-ready ML pipelines.
 
-I am a graduate student specializing in **Artificial Intelligence**, with academic and hands-on experience in  **Large Language Models**, **Generative AI**, **Retrieval-Augmented Generation**, and **Agentic AI**.  My work focuses on developing intelligent, scalable, and production-ready AI systems.
+## Tech Stack
 
-## Research Interests
+**Languages**
+`Python` `SQL` `C++`
 
-- Agentic & Autonomous AI  
-- Large Language Models (LLMs)  
-- Retrieval-Augmented Generation (RAG)  
-- Efficient Fine-Tuning & Optimization  
-- Multimodal AI  
+**GenAI & LLMs**
+`Transformers` `Hugging Face` `LangChain` `LangGraph` `LlamaIndex` `RAG` `QLoRA` `Prompt Engineering`
+
+**Agentic Frameworks**
+`LangGraph` `crewAI` `BeeAI`
+
+**ML & Computer Vision**
+`PyTorch` `TensorFlow` `Keras` `Scikit-learn` `OpenCV` `pandas` `NumPy`
+
+**Databases**
+`MySQL` `ChromaDB` `VectorDB` `GraphDB`
+
+**Cloud & DevOps**
+`AWS` `Azure` `Docker` `REST API` `Gradio`
+
+---
