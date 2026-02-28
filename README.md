@@ -1,20 +1,10 @@
-<h1 align="center">Artificial Intelligence Student </h3>
-<!img align="right" alt="coding" width="390" src="8 Ways Artificial Intelligence Can Save Your Time - MaxiNews.gif"-->
+
 
 ## About Me
 
 I am a graduate student specializing in **Artificial Intelligence**, with academic and hands-on experience in  **Large Language Models**, **Generative AI**, **Retrieval-Augmented Generation**, and **Agentic AI**.  My work focuses on developing intelligent, scalable, and production-ready AI systems.
 
 I am particularly interested in the intersection of **LLMs**, **reasoning frameworks**, and  **real-world autonomous decision-making systems**.
-
-## What I’ve worked on
-
-- DocChat – Multi-Agent RAG System
-- QLoRA-Based Conversational LLM Fine-Tuning
-- AI Icebreaker Bot
-- Autonomous Multi-Agent Travel System
-- AI Nutrition Assistant
-
 ## Research Interests
 
 - Agentic & Autonomous AI  
