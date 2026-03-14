@@ -1,6 +1,6 @@
 ## About Me
 
-<img align="right" src="8%20Ways%20Artificial%20Intelligence%20Can%20Save%20Your%20Time%20-%20MaxiNews.gif" alt="AI GIF" width="300">
+<img align="right" src="8%20Ways%20Artificial%20Intelligence%20Can%20Save%20Your%20Time%20-%20MaxiNews.gif" alt="AI GIF" width="200" height="200">
 
 I'm a graduate student pursuing an MSc in Artificial Intelligence at Brandenburg University of Technology, Germany, with a background in AI & Data Science from APJ Abdul Kalam Technological University.
 
