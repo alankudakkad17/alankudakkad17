@@ -1,7 +1,7 @@
-![AI GIF](8%20Ways%20Artificial%20Intelligence%20Can%20Save%20Your%20Time%20-%20MaxiNews.gif)
+
 
 ## About Me
-
+<img align="left" src="8%20Ways%20Artificial%20Intelligence%20Can%20Save%20Your%20Time%20-%20MaxiNews.gif" alt="AI GIF">
 I'm a graduate student pursuing an MSc in Artificial Intelligence at Brandenburg University of Technology, Germany, with a background in AI & Data Science from APJ Abdul Kalam Technological University.
 
 My focus lies at the intersection of Agentic AI, LLMs, and Gen AI — building systems that reason, retrieve, and act autonomously. I enjoy designing multi-agent workflows and production-ready ML pipelines.
