@@ -24,6 +24,6 @@ My focus lies at the intersection of Agentic AI, LLMs, and Gen AI — building s
 `MySQL` `ChromaDB` `VectorDB` `GraphDB`
 
 **Cloud & DevOps**
-`AWS` `Azure` `Docker` `REST API` `Gradio`
+`AWS` `Azure` `Docker` `REST API` `Gradio` `React`
 
 ---
