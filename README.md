@@ -15,7 +15,7 @@ My focus lies at the intersection of Agentic AI, LLMs, and Gen AI — building s
 `Transformers` `Hugging Face` `LangChain` `LangGraph` `LlamaIndex` `RAG` `QLoRA` `Prompt Engineering`
 
 **Agentic Frameworks**
-`LangGraph` `crewAI` `BeeAI`
+`LangGraph` `crewAI` `BeeAI` `Google ADK`
 
 **ML & Computer Vision**
 `PyTorch` `TensorFlow` `Keras` `Scikit-learn` `OpenCV` `pandas` `NumPy`
