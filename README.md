@@ -12,7 +12,7 @@ My focus lies at the intersection of Agentic AI, LLMs, and Gen AI — building s
 `Python` `SQL` `C++`
 
 **GenAI & LLMs**
-`Transformers` `Hugging Face` `LangChain` `LangGraph` `LlamaIndex` `RAG` `QLoRA` `Prompt Engineering`
+`Transformers` `Hugging Face` `LlamaIndex` `RAG` `QLoRA` `Prompt Engineering`
 
 **Agentic Frameworks**
 `LangGraph` `crewAI` `BeeAI` `Google ADK`
@@ -21,7 +21,7 @@ My focus lies at the intersection of Agentic AI, LLMs, and Gen AI — building s
 `PyTorch` `TensorFlow` `Keras` `Scikit-learn` `OpenCV` `pandas` `NumPy`
 
 **Databases**
-`MySQL` `ChromaDB` `VectorDB` `GraphDB`
+`MySQL` `VectorDB(ChromaDB & Faiss)` `GraphDB(Neo4j)`
 
 **Cloud & DevOps**
 `AWS` `Azure` `Docker` `REST API` `Gradio` `React`
