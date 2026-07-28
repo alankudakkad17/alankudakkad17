@@ -14,7 +14,7 @@ My focus lies at the intersection of **Agentic AI**, **LLMs**, and **Gen AI** �
 - 🧠 **Large Language Models**
 - 🛠️ **Fine-tuning**
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
