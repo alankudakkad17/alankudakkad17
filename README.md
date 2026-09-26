@@ -17,10 +17,10 @@ I'm a graduate student pursuing an **MSc in Artificial Intelligence** at **Brand
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
-| **Core & Systems** | `Python` • `C++` • `SQL` |
+| **Core & Systems** | `Python` • `C++` • `SQL` • `TypeScript` |
 | **Agentic AI & Orchestration** | `LangGraph` • `CrewAI` • `LangChain` • `BeeAI` • `Google ADK` |
 | **GenAI & LLM** | `RAG` • `LlamaIndex` • `Transformers` • `Hugging Face` • `QLoRA` |
-| **ML & Deep Learning** | `PyTorch` • `TensorFlow` • `OpenCV` • `Scikit-learn` • `MLflow` |
+| **ML & Deep Learning** | `PyTorch` • `TensorFlow` • `OpenCV` • `Scikit-learn` • `MLflow`  • `ONNX` • `Quantization`|
 | **Databases** | `Neo4j (GraphDB)` • `ChromaDB & FAISS (VectorDB)` • `MySQL` |
 | **Cloud & MLOps** | `Docker` • `AWS` • `Azure` • `REST APIs` • `Gradio` • `GitHub Actions` |
 ---
