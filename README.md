@@ -18,7 +18,7 @@ I'm a graduate student pursuing an **MSc in Artificial Intelligence** at **Brand
 | Domain | Technologies & Tools |
 | :--- | :--- |
 | **Core & Systems** | `Python` • `C++` • `SQL` |
-| **Agentic AI & Orchestration** | `LangGraph` • `CrewAI` • `LangChain` • `BeeAI` • `Google ADK` |
+| **Agentic AI & Orchestration** | `LangGraph` • `CrewAI` • `LangChain` • `BeeAI` • `Google ADK`• `MCP` |
 | **GenAI & LLM** | `RAG` • `LlamaIndex` • `Transformers` • `Hugging Face` • `QLoRA` |
 | **ML & Deep Learning** | `PyTorch` • `TensorFlow` • `OpenCV` • `Scikit-learn` • `MLflow`  • `ONNX` • `Quantization`|
 | **Databases** | `Neo4j (GraphDB)` • `ChromaDB & FAISS (VectorDB)` • `MySQL` |
