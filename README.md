@@ -1,5 +1,4 @@
 <h2 align="left">Hey, I'm Alan </h2> <p align="left"> <em>MSc AI Student @ Brandenburg University of Technology, Germany</em> </p> <p align="left"> 
-<img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%7C%20LLMs%20%7C%20GenAI-blue?style=flat-square" alt="focus badge"/> </p>
 
 ### About Me
 
