@@ -5,10 +5,11 @@
 
 ```python
 class Alan:
-    role       = "MSc AI @ BTU Cottbus, Germany"
-    background = "B.Tech AI & Data Science, KTU"
-    building   = ["Agentic systems", "RAG", "Deep Learning"]
-    looking_for = "Werkstudent / internship roles in AI/ML"
+    role        = "MSc Artificial Intelligence @ BTU"
+    background  = "AI & Data Science @ APJ Abdul Kalam Technological University (KTU)"
+    focus       = ["Agentic AI", "LLMs", "Generative AI", "Deep Learning"]
+    building    = "systems that reason, retrieve, and act autonomously"
+    enjoys      = ["Multi-agent workflows", "Production-ready ML/DL pipelines"]
 ```
 <h4>What I work on</h4>
 
