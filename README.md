@@ -1,10 +1,16 @@
 <h2 align="left">Hey, I'm Alan </h2> <p align="left"> <em>MSc AI Student @ Brandenburg University of Technology, Germany</em> </p> <p align="left"> 
 <img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%7C%20LLMs%20%7C%20GenAI-blue?style=flat-square" alt="focus badge"/> </p>
 
-<h4>About Me</h4>
+### About Me
 
-I'm a graduate student pursuing an **MSc in Artificial Intelligence** at **Brandenburg University of Technology (BTU)**, Germany, with a background in **AI & Data Science** from **APJ Abdul Kalam Technological University**. My focus lies at the intersection of **Agentic AI**, **LLMs**, and **Gen AI** — building systems that reason, retrieve, and act autonomously. I enjoy designing multi-agent workflows and production-ready ML pipelines.
-
+```python
+class Alan:
+    role        = "MSc Artificial Intelligence @ BTU"
+    background  = "AI & Data Science @ APJ Abdul Kalam Technological University (KTU)"
+    focus       = ["Agentic AI", "LLMs", "Generative AI", "Deep Learning"]
+    building    = "systems that reason, retrieve, and act autonomously"
+    enjoys      = ["Multi-agent workflows", "Production-ready ML/DL pipelines"]
+```
 <h4>What I work on</h4>
 
 - 🤖 **Agentic AI & Orchestration:** Designing autonomous multi-agent systems, task routing, and tool-augmented workflows.
