@@ -15,7 +15,7 @@ class Alan:
 - 🤖 **Agentic AI & Orchestration:** Designing autonomous multi-agent systems, task routing, and tool-augmented workflows.
 - 🔍 **Advanced & Graph RAG:** Building hybrid context retrieval systems combining dense vector search and knowledge graphs.
 - 💬 **Generative AI Solutions:** Engineering end-to-end full-stack AI applications, interactive demos, and automated data pipelines.
-- 🧠 **LLM Customization & Fine-Tuning:** Parameter-efficient fine-tuning (PEFT/QLoRA), model quantization, and prompt optimization.
+- 🧠 **Deep Learning systems:** End to End deep learning model training, model quantization, and model deployment.
 - 🎙️ **Multimodal Systems:** Ingesting unstructured data using VLM's, speech-to-text pipelines, and document extraction.
 
 <h4>Tech Stack & Skills</h4>
