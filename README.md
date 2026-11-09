@@ -22,7 +22,7 @@ class Alan:
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
-| **Core & Systems** | `Python` • `C++` • `SQL` |
+| **Core & Systems** | `Python` • `C++` • `SQL`• `Typescript` |
 | **Agentic AI & Orchestration** | `LangGraph` • `CrewAI` • `LangChain` • `BeeAI` • `Google ADK`• `MCP`• `NeMo` |
 | **GenAI & LLM** | `RAG` • `LlamaIndex` • `Transformers` • `Hugging Face` • `QLoRA` |
 | **ML & Deep Learning** | `PyTorch` • `TensorFlow` • `OpenCV` • `Scikit-learn` • `MLflow`  • `ONNX` • `Quantization`|
