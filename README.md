@@ -24,7 +24,7 @@ class Alan:
 | :--- | :--- |
 | **Core & Systems** | `Python` • `C++` • `SQL`• `Typescript` |
 | **Agentic AI & Orchestration** | `LangGraph` • `CrewAI` • `LangChain` • `BeeAI` • `Google ADK`• `MCP`• `NeMo` |
-| **GenAI & LLM** | `RAG` • `LlamaIndex` • `Transformers` • `Hugging Face` • `QLoRA` |
+| **GenAI & LLM** | `RAG` • `LlamaIndex` • `Transformers` • `Hugging Face` • `QLoRA`• `DeepEval` |
 | **ML & Deep Learning** | `PyTorch` • `TensorFlow` • `OpenCV` • `Scikit-learn` • `MLflow`  • `ONNX` • `Quantization`|
 | **Databases** | `Neo4j (GraphDB)` • `ChromaDB & FAISS (VectorDB)` • `MySQL` |
 | **Cloud & MLOps** | `Docker` • `AWS` • `Azure` • `REST APIs` • `Gradio` • `GitHub Actions` |
