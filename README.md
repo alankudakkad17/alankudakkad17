@@ -6,9 +6,9 @@
 class Alan:
     role        = "MSc Artificial Intelligence @ BTU"
     background  = "AI & Data Science @ APJ Abdul Kalam Technological University (KTU)"
-    focus       = ["Agentic AI", "LLMs", "Generative AI", "Deep Learning"]
+    focus       = ["Agentic AI", "LLMs", "Deep Learning", "Generative AI"]
     building    = "systems that reason, retrieve, and act autonomously"
-    enjoys      = ["Multi-agent workflows", "Production-ready ML/DL pipelines"]
+    enjoys      = ["Production-ready ML/DL pipelines", "Multi-agent Systems"]
 ```
 <h4>What I work on</h4>
 
